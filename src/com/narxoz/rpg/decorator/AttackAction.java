@@ -4,4 +4,4 @@ public interface AttackAction {
     String getActionName();
     int getDamage();
     String getEffectSummary();
-}
+} 
