@@ -30,3 +30,4 @@ Every decorator should wrap another `AttackAction` and still behave like an `Att
 - Can you wrap a decorated action with another decorator?
 - Does client code still work with the `AttackAction` type only?
 - Do your decorators add behavior instead of replacing the pattern structure?
+ 

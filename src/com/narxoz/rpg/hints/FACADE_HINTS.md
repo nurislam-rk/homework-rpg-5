@@ -28,3 +28,4 @@ The caller should interact with the facade for the dungeon workflow instead of c
 - Can one method on the facade run the whole scenario?
 - Does the facade hide complexity instead of exposing it?
 - Are subsystem responsibilities clearly separated?
+ 
