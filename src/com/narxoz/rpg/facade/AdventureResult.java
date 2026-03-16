@@ -42,3 +42,4 @@ public class AdventureResult {
         return Collections.unmodifiableList(log);
     }
 }
+ 
